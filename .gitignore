@@ -1,6 +1,6 @@
-*
-!.gitignore
-!*.cpp
-!*.c
-!*.h
-!*.obj
+gl/
+x64/
+oglai.sln
+oglai.vcxproj
+oglai.vcxproj.filters
+oglai.vcxproj.user
